@@ -1,29 +1,39 @@
 # Hi, I'm Mehak Ayaz 👋
 
-### Biomedical Engineering Student | Python & Machine Learning
+### Biomedical Engineer | Medical Imaging, Radiomics & Machine Learning
 
-I'm a final-year Biomedical Engineering student at Mehran University of Engineering and Technology, Jamshoro, Pakistan. I'm interested in applying machine learning and computational methods to healthcare and scientific research.
+Final-year Biomedical Engineering student at Mehran University of Engineering and Technology (MUET), Jamshoro, Pakistan (graduating Dec 2026). I work where healthcare meets machine learning: medical image analysis, radiomics, and computational models of how brains and machines learn.
 
-### 🔬 Research Interests
-- Machine learning for healthcare
-- Medical imaging and radiomics
-- Data-driven approaches to biomedical problems
-- Exploring the intersection of engineering, biology, and AI
+- 🔬 **Currently:** predicting chemotherapy response from breast MRI with radiomics and ML
+- 🧠 **Learning:** reinforcement learning and learning from few examples
+- 🏥 **Background:** hospital equipment (NICVD internship), hospital information systems, IoT health devices
+- 💼 **Open to:** research internships, medical imaging and healthcare data work, remote collaborations
+
+### 🚀 Projects
+
+| Project | What it does | Tools |
+|---|---|---|
+| [Breast MRI pCR Prediction](https://github.com/mehakayaz24/breast-mri-pcr-radiomics) | Predicts pathological complete response from pre-treatment MRI; 107 radiomic features, cross-validated AUC ≈ 0.71, Streamlit app | Python, PyRadiomics, SimpleITK, scikit-learn, XGBoost |
+| [Meta-RL Navigation](https://github.com/mehakayaz24/meta-rl-navigation) | Recurrent agent that learns a goal location in one trial; goal decoded from its hidden states | PyTorch, A2C, GRU |
+| [Python Data Science Practice](https://github.com/mehakayaz24/python-data-science-practice) | My Python learning journey towards machine learning | Python, NumPy, Pandas |
+| Smart Hospital Management System | Role-based web app for patients, doctors, pharmacy and billing | PHP, MySQL, HTML/CSS |
 
 ### 🛠️ Technologies
-- **Programming:** Python
-- **Machine Learning:** Scikit-learn, XGBoost
-- **Medical Imaging:** PyRadiomics, SimpleITK, 3D Slicer
-- **Data Analysis:** NumPy, Pandas, Matplotlib, SciPy
-- **Prototyping:** Streamlit, Google Colab, VS Code
 
-### 🚀 Current Work
-Developing a machine-learning-based research project involving breast MRI radiomics and prediction of response to neoadjuvant chemotherapy. I'm also building practical experience in model evaluation, reproducible workflows, and research-oriented programming.
+- **Programming:** Python, MATLAB, SQL, PHP
+- **Machine Learning:** scikit-learn, XGBoost, PyTorch
+- **Medical Imaging:** PyRadiomics, SimpleITK, 3D Slicer, DICOM / NRRD
+- **Data Analysis:** NumPy, Pandas, Matplotlib, SciPy
+- **Prototyping:** Streamlit, Google Colab, VS Code, Git
 
 ### 🌍 Community & Learning
-- Aspire Leaders Program (ALP) Alumna
+
+- Aspire Leaders Program (ALP) Alumna, 2026
+- Women2Women National Leadership Program, 2024
+- IEEE & IEEE Women in Engineering member
 
 ### 🎯 Goals
-To strengthen my computational research skills, contribute to meaningful scientific projects, and pursue opportunities in machine learning, biomedical engineering, and healthcare research.
 
-I'm always learning, building, and exploring new ways to use technology to solve real-world problems.
+To strengthen my computational research skills, contribute to meaningful scientific projects, and pursue a research master's in machine learning and healthcare.
+
+📫 [LinkedIn](https://linkedin.com/in/mehakayaz24) · mehakayaz67@gmail.com
